@@ -10,7 +10,6 @@ void main()
   len=i;
   for(i=len-1;i>=0;i--){
     rev[j++]=str[i];}
-  
   printf("\n the reversed string is %s",rev);
 
 }
